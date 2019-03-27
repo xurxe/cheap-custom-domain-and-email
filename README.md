@@ -12,10 +12,10 @@
 
 ## Tools
 
-- Gmail account
-- GitHub account
 - Domain.com account
 - Virtual Studio Code (VSC)
+- GitHub account
+- Gmail account
 
 ## Buy domain
 
@@ -24,10 +24,9 @@
     - If it's available, it will be added to your cart.
     - It automatically selects 2 years of domain purchase and 2 years of privacy protection, which quickly ramps up the price. I switch it to 1 year and keep the privacy protection on
 3. Click Continue. DO NOT choose any add-ons
-4. Click Proceed to Billing. After that it's pretty standard stuff
-    - If you have an account, log in
-    - If you don't, create a new account
-5. Follow the instructions you will receive by email
+4. Click Proceed to Billing. Then click on the blue link "Already have a Domain.com account? Sign In!"
+    - This assumes you already have an account and a payment method associtated with it.
+5. Click Checkout
 
 ## Create local repository
 
